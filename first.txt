@@ -1,2 +1,5 @@
 Hi. This is me.
 emergency fix
+
+--New feature added--
+FEATURE 1.0
